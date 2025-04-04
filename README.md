@@ -1,33 +1,42 @@
 # Hi there, I'm Madhav! 👋
 
-**Computer Science Junior** | **Full-Stack Developer** | **ML & Data Engineering Enthusiast**
+**Computer Science Junior** | **Problem Solver** | **Tech Explorer**
 
-I'm currently pursuing a B.S. in Computer Science (Expected 2026) at The University of Texas at Dallas. I specialize in designing **scalable, secure web applications**, building **CI/CD pipelines**, and leveraging **machine learning** to transform complex datasets into actionable insights.
+I'm currently pursuing a B.S. in Computer Science (Expected 2026) at The University of Texas at Dallas. I enjoy learning about **different technologies**, tackling **challenging problems**, and building projects that make an impact.
 
 ## 🔧 Technologies & Tools
 - **Languages:** Python, Java, C/C++, TypeScript, JavaScript
-- **Frameworks/Libraries:** React, Angular, Node.js, Flask, TensorFlow Lite
-- **Data & Databases:** MySQL, PostgreSQL, MongoDB, SQLite
-- **DevOps & Cloud:** Docker, Kubernetes, AWS (EC2, S3, Lambda, DynamoDB), Git/GitHub
-- **Methodologies:** Agile (Scrum), Unit/Integration Testing, Peer Reviews, RESTful API Development
+- **Frameworks/Libraries:** React, Angular, Node.js, Next.js, TensorFlow Lite
+- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite, DynamoDB
+- **DevOps/Cloud:** Docker, Kubernetes, AWS (EC2, S3, Lambda, DynamoDB), Git/GitHub
+- **General Practices:** Agile (Scrum), Testing (Unit/Integration), Peer Reviews, REST API Development
 
-## 🚀 Featured Projects
-- **Inventory Tracking System (Hope Restored Missions):**  
-  Developed a full-stack solution using Nuxt.js, Vue.js, TypeScript, Prisma, Node.js, and C to reduce manual inventory tracking errors by 40%.  
-- **Smart Home Security System:**  
-  Built a real-time facial recognition and object detection platform using Python (OpenCV), C++, Docker, and a Jetson Nano for low-latency computer vision pipelines.  
-- **Rajputra.Org (RANA):**  
-  Modernized a legacy website using Angular, CSS, and MySQL, implementing secure user authentication and boosting user engagement through a responsive interface.
+## 🚀 Projects
+- **Inventory Tracking System (Hope Restored Missions)**  
+  Built a full-stack solution with Nuxt.js, Vue.js, TypeScript, Prisma, Node.js, and C.
 
-## 🌱 What I’m Learning
-- More advanced **machine learning** and **predictive analytics** techniques.
-- Cloud architecture patterns and microservices with **AWS** and **Kubernetes**.
-- Deeper dives into **performance optimization** and **systems design** for large-scale applications.
+- **Smart Home Security System**  
+  Created a real-time detection platform using Python (OpenCV), TensorFlow Lite, C++ for edge computing.
 
-## 🤝 How to Reach Me
+- **Rajputra.Org (RANA)**  
+  Refreshed an existing community portal with Angular and Spring Boot, integrating secure user access and improved data workflows.
+
+- **SoundScore**  
+  Developed a social music rating app with React, Node.js, MongoDB, and Spotify API for real-time album interactions.
+
+- **Access Control Manager (TheLab.ms)**  
+  Deployed an embedded authentication system (C++ on ESP32) for RFID/fingerprint security with Wi-Fi–based data sync.
+
+- **Grant Discovery Platform (Tomorrow’s Leaders Today)**  
+  Mentored a student-led team and designed a flexible Next.js + Prisma architecture with Python-based scraping to increase grant discovery efficiency.
+
+## 🌱 Currently Exploring
+- Broader **systems design** principles for robust, maintainable solutions.
+- **Cloud computing** (AWS, Kubernetes) for distributed and containerized applications.
+- Optimizing code performance, concurrency, and user experience across various tech stacks.
+
+## 🤝 Get in Touch
 - **Email:** [madhavcbusiness@gmail.com](mailto:madhavcbusiness@gmail.com)
 - **LinkedIn:** [linkedin.com/in/madhav-s-c](https://www.linkedin.com/in/madhav-s-c)
 
-I’m always open to **collaborations** on interesting projects or discussing new ideas in ML, data engineering, or full-stack development. Feel free to check out my repositories below and let’s connect!
-
----
+Feel free to explore my repositories below, or reach out if you'd like to collaborate on an interesting challenge!
