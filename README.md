@@ -1,42 +1,54 @@
 # Hi there, I'm Madhav! 👋
 
-**Computer Science Junior** | **Problem Solver** | **Tech Explorer**
+**Software Engineer** | **AI & ML Enthusiast** | **Future Quantum Computing Explorer**
 
-I'm currently pursuing a B.S. in Computer Science (Expected 2026) at The University of Texas at Dallas. I enjoy learning about **different technologies**, tackling **challenging problems**, and building projects that make an impact.
+I’m a junior at **The University of Texas at Dallas** (B.S. in Computer Science, expected 2026). My interests span building scalable software architectures, designing AI/ML pipelines, and diving into emerging tech like quantum computing.
 
-## 🔧 Technologies & Tools
-- **Languages:** Python, Java, C/C++, TypeScript, JavaScript
-- **Frameworks/Libraries:** React, Angular, Node.js, Next.js, TensorFlow Lite
-- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite, DynamoDB
-- **DevOps/Cloud:** Docker, Kubernetes, AWS (EC2, S3, Lambda, DynamoDB), Git/GitHub
-- **General Practices:** Agile (Scrum), Testing (Unit/Integration), Peer Reviews, REST API Development
+---
 
-## 🚀 Projects
-- **Inventory Tracking System (Hope Restored Missions)**  
-  Built a full-stack solution with Nuxt.js, Vue.js, TypeScript, Prisma, Node.js, and C.
+## ⚙️ Technologies & Tools
 
-- **Smart Home Security System**  
-  Created a real-time detection platform using Python (OpenCV), TensorFlow Lite, C++ for edge computing.
+- **Languages:** Python, Java, C++, C, C#, Go, TypeScript, JavaScript, SQL, Bash, Groovy  
+- **Frameworks & Libraries:** Node.js, React, Angular, Next.js, Vue, Tailwind CSS, Spring Boot, FastAPI, Prisma, scikit-learn, NumPy, pandas, TensorFlow Lite, Power BI, Selenium, .NET  
+- **Cloud & Systems:** AWS (EC2, S3, Lambda, DynamoDB, CloudWatch, CLI), Docker, Kubernetes, Linux/Unix, Microservices, GraphQL, REST APIs, ETL, Containerization, CI/CD, concurrency, multi-threading  
+- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite, DynamoDB  
+- **Practices & Tools:** Git, GitHub, JIRA, Confluence, Agile/Scrum, TDD, peer code reviews, secure coding, DevOps  
 
-- **Rajputra.Org (RANA)**  
-  Refreshed an existing community portal with Angular and Spring Boot, integrating secure user access and improved data workflows.
+---
 
-- **SoundScore**  
-  Developed a social music rating app with React, Node.js, MongoDB, and Spotify API for real-time album interactions.
+## 🚀 Selected Projects (Newest → Oldest)
 
-- **Access Control Manager (TheLab.ms)**  
-  Deployed an embedded authentication system (C++ on ESP32) for RFID/fingerprint security with Wi-Fi–based data sync.
+1. **SoundScore**  
+   MERN-based social music rating platform with real-time album analytics, user reviews, and Spotify integration.
 
-- **Grant Discovery Platform (Tomorrow’s Leaders Today)**  
-  Mentored a student-led team and designed a flexible Next.js + Prisma architecture with Python-based scraping to increase grant discovery efficiency.
+2. **Rajputra.Org**  
+   Refactored a community engagement portal using Angular, Spring Boot, and DynamoDB for robust user management and responsive UI.
+
+3. **Grant Discovery System**  
+   Developed a Next.js + Prisma architecture integrated with Python-based scraping to automate nonprofit funding searches.
+
+4. **Inventory Tracking System**  
+   Built a donation center platform with Nuxt.js, TypeScript, Node.js, and Prisma for real-time scanning and secure logging.
+
+5. **Access Control Manager**  
+   Created an embedded authentication system in C++ on ESP32 featuring RFID/fingerprint scanning with Wi-Fi data sync.
+
+6. **Smart Home Security System**  
+   Deployed real-time facial and object detection using Python (OpenCV), TensorFlow Lite, and C++ for edge computing.
+
+---
 
 ## 🌱 Currently Exploring
-- Broader **systems design** principles for robust, maintainable solutions.
-- **Cloud computing** (AWS, Kubernetes) for distributed and containerized applications.
-- Optimizing code performance, concurrency, and user experience across various tech stacks.
 
-## 🤝 Get in Touch
-- **Email:** [madhavcbusiness@gmail.com](mailto:madhavcbusiness@gmail.com)
+- **Advanced Software Engineering** for high-performance, reliable systems.  
+- **Applied AI/ML** techniques for data-driven insights and predictive models.  
+- **Quantum Computing** fundamentals and potential real-world use cases.
+
+---
+
+## 🤝 Let’s Connect
+
+- **Email:** [madhavcbusiness@gmail.com](mailto:madhavcbusiness@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/madhav-s-c](https://www.linkedin.com/in/madhav-s-c)
 
-Feel free to explore my repositories below, or reach out if you'd like to collaborate on an interesting challenge!
+I’m always open to new collaborations, especially around AI/ML, complex system design, or emerging tech. Check out my repos below, and let’s connect!
