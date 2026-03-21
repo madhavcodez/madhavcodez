@@ -17,13 +17,14 @@ Full-stack engineer in Palo Alto. Finishing B.S. CS @ UT Dallas, 2026.
 ---
 
 ### Building right now
+- **[Agentary](https://github.com/madhavcodez/agentary)** — autonomous AI research platform: deploy expert agent crews that research, call, analyze, and report (working on startup)
 - **[SoundScore](https://github.com/madhavcodez/SoundScore)** — cross-platform music logging app (Kotlin, SwiftUI, TypeScript)
-- **SecretAIry** — AI-powered outreach assistant (Python, React, PostgreSQL)
 - **Embedded AI** — on-device inference and hardware-accelerated ML
 
 ---
 
 ### Digging into
+- Autonomous multi-agent systems with tool-calling and real-time coordination
 - Native cross-platform architecture without shared UI frameworks
 - On-device ML and embedded systems for real-time inference
 - Systems programming and low-level performance work
