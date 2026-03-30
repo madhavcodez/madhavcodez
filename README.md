@@ -1,31 +1,26 @@
 # Madhav Chauhan
-I build and ship.
 
-Full-stack engineer in Palo Alto. Finishing B.S. CS @ UT Dallas, 2026.
+SWE shipping sporadically.
 
 ---
 
 ### Stack
-`Python` `TypeScript` `Java` `C++` `C` `Go` `SQL` `Bash`
 
-`React` `Next.js` `Node.js` `Spring Boot` `FastAPI` `Tailwind CSS` `Prisma`
+**Languages:** `Python` `C/C++` `Java` `TypeScript/JavaScript` `SQL` `Kotlin` `Swift`
 
-`PostgreSQL` `Redis` `MongoDB` `DynamoDB`
+**Frameworks & Platforms:** `FastAPI` `Spring Boot` `Node.js` `Express.js` `React` `Next.js` `Angular` `Flask` `Prisma` `TensorFlow` `TensorFlow Lite` `scikit-learn` `REST APIs` `Microservices`
 
-`AWS` `Docker` `Kubernetes` `Linux` `CI/CD` `GraphQL` `REST`
+**Cloud, Data & Infrastructure:** `AWS (Lambda, ECS/Fargate, S3)` `Docker` `Kubernetes` `PostgreSQL` `Redis` `DynamoDB` `Elasticsearch` `Qdrant` `MongoDB` `Airflow` `Celery` `Git` `Jenkins` `Kafka` `MQTT` `FreeRTOS` `Vector Search`
 
 ---
 
 ### Building right now
-- **[Agentary](https://github.com/madhavcodez/agentary)** — autonomous AI research platform: deploy expert agent crews that research, call, analyze, and report (working on startup)
-- **[SoundScore](https://github.com/madhavcodez/SoundScore)** — cross-platform music logging app (Kotlin, SwiftUI, TypeScript)
-- **Embedded AI** — on-device inference and hardware-accelerated ML
+- **ML pipeline for video/motion analysis** — sports intelligence
+- **[Agentary](https://github.com/madhavcodez/agentary)** — autonomous AI research platform: deploy expert agent crews that research, call, analyze, and report
 
 ---
 
 ### Digging into
-- Autonomous multi-agent systems with tool-calling and real-time coordination
-- Native cross-platform architecture without shared UI frameworks
+- Quantum computing research
 - On-device ML and embedded systems for real-time inference
-- Systems programming and low-level performance work
-- Shipping 0 → 1 products end-to-end
+- Autonomous multi-agent orchestration
