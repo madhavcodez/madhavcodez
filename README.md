@@ -2,25 +2,14 @@
 
 SWE shipping sporadically.
 
----
-
-### Stack
-
-**Languages:** `Python` `C/C++` `Java` `TypeScript/JavaScript` `SQL` `Kotlin` `Swift`
-
-**Frameworks & Platforms:** `FastAPI` `Spring Boot` `Node.js` `Express.js` `React` `Next.js` `Angular` `Flask` `Prisma` `TensorFlow` `TensorFlow Lite` `scikit-learn` `REST APIs` `Microservices`
-
-**Cloud, Data & Infrastructure:** `AWS (Lambda, ECS/Fargate, S3)` `Docker` `Kubernetes` `PostgreSQL` `Redis` `DynamoDB` `Elasticsearch` `Qdrant` `MongoDB` `Airflow` `Celery` `Git` `Jenkins` `Kafka` `MQTT` `FreeRTOS` `Vector Search`
-
----
-
 ### Building right now
-- **ML pipeline for video/motion analysis** — sports intelligence
-- **[Agentary](https://github.com/madhavcodez/agentary)** — autonomous AI research platform: deploy expert agent crews that research, call, analyze, and report
 
----
+- **ML pipeline for video/motion intelligence** — sports film analysis and player tracking
+- **Deep research platform** — autonomous AI agents that research, analyze, and report
+- **Disaster Damage Assessment** — professor-led research building a VLM + geospatial QA system for aerial damage classification
 
 ### Digging into
+
 - Quantum computing research
 - On-device ML and embedded systems for real-time inference
 - Autonomous multi-agent orchestration
