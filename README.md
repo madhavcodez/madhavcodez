@@ -33,8 +33,8 @@
 
 ### experience
 
-**AI Software Engineer** at a **stealth AI startup** - Palo Alto, CA (Dec 2025 - Present)
-Building foundational AI product infrastructure end-to-end at a seed-stage Silicon Valley company. Shipping under real user and investor scrutiny.
+**AI Software Engineer** at a **Stealth Foundational AI Company** - Palo Alto, CA (Dec 2025 - Present)
+Building foundational AI product infrastructure end-to-end. Shipping under real user and investor scrutiny.
 
 **ML Intern** at **Haystream** (May - Sep 2023)
 Built an end-to-end credit-risk pipeline: GBDT models lifting AUC +6 pts, containerized FastAPI microservice for real-time scoring, Airflow ETL, Power BI drift monitoring.
