@@ -1,7 +1,7 @@
 <h1 align="center">Madhav Chauhan</h1>
 
 <p align="center">
-  <em>AI Software Engineer in Silicon Valley. I build autonomous systems - research agents, edge ML, full-stack analytics - and the infrastructure that keeps them running at 5 AM when I'm asleep.</em>
+  <em>AI Software Engineer in Silicon Valley. I build systems that think autonomously</em>
 </p>
 
 <p align="center">
