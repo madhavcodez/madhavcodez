@@ -46,8 +46,6 @@ Led a 5-engineer team building a Next.js + Prisma grant-matching portal. 1,500+ 
 
 ### how I think about software
 
-I'm drawn to systems where **AI isn't the product - it's the infrastructure**. The disaster pipeline isn't an AI demo; it's a tool researchers actually use to assess hurricane damage. Agentary isn't a chatbot; it's an orchestration layer that delegates real work to specialized agents with real tools.
-
 I care about the full loop: **ingestion, processing, interface**. Most of my projects go from raw data to a working frontend because the interesting engineering lives in the seams between layers, not inside any single one.
 
 ---
