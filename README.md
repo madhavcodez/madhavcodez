@@ -14,7 +14,7 @@
 
 ### what I'm building
 
-**[Agentary](https://github.com/madhavcodez/agentary)** - Autonomous multi-agent research platform. Deploy crews of specialized agents that research any domain, make voice calls via Twilio + Pipecat, and generate structured reports. Not a wrapper around an API - actual orchestration with task delegation, vector retrieval, and 10 external connectors.
+**[Agentary](https://github.com/madhavcodez/agentary)** - Autonomous multi-agent research platform. Applies Stanford University's STORM workflow over a ByteDance DeerFlow-inspired orchestration backend. Deploys crews of specialized agents that research any domain, make voice calls via Twilio + Pipecat, and generate citation-backed structured reports. Not a wrapper around an API - actual orchestration with task delegation, vector retrieval, and 10 external connectors.
 `Python` `FastAPI` `PostgreSQL` `Redis` `Qdrant` `Celery` `Gemini` `Twilio`
 
 **[Basketball Intelligence](https://github.com/madhavcodez/basketballintelligence)** - Full-stack NBA analytics platform over 5.7M shots and 45 years of box scores. Natural-language queries against the dataset, plus YOLO-based film analysis that breaks down real game footage. Started as a weekend question, turned into a real system.
@@ -26,15 +26,12 @@
 **[SoundScore](https://github.com/madhavcodez/SoundScoreV0.1)** - Cross-platform music logging and social discovery app. Native Android (Kotlin/Jetpack Compose) and iOS (SwiftUI) clients backed by a shared TypeScript/Fastify API. Ratings, reviews, social feeds, curated lists, weekly recaps, and Gemini-powered recommendations.
 `Kotlin` `SwiftUI` `TypeScript` `Fastify` `PostgreSQL` `Redis`
 
-**[ReverseRecruiter](https://github.com/madhavcodez/reverserecruiter)** - AI-powered reverse recruiting system. Automates company research, role discovery, and hiring-manager identification. Integrates voice-based cold calling via Pipecat + Gemini Live + Twilio to contact businesses directly and surface opportunities with source-backed findings.
-`Python` `FastAPI` `Next.js` `Celery` `Qdrant` `Twilio`
-
 ---
 
 ### experience
 
 **AI Software Engineer** at a **Stealth Foundational AI Company** - Palo Alto, CA (Dec 2025 - Present)
-Building foundational AI product infrastructure end-to-end. Shipping under real user and investor scrutiny.
+Building foundational AI product infrastructure end-to-end alongside the Chief Scientist. Presenting milestones, roadmap progress, and engineering timelines to senior leadership and investors.
 
 **ML Intern** at **Haystream** (May - Sep 2023)
 Built an end-to-end credit-risk pipeline: GBDT models lifting AUC +6 pts, containerized FastAPI microservice for real-time scoring, Airflow ETL, Power BI drift monitoring.
@@ -54,11 +51,11 @@ I care about the full loop: **ingestion, processing, interface**. Most of my pro
 
 ```
 languages     python  typescript  c/c++  java  kotlin  swift  sql
-ai/ml         multi-agent orchestration  VLMs  YOLO  gemini  tensorflow  embeddings  edge inference
-backend       fastapi  spring boot  express  flask  celery  airflow  kafka
+ai/ml         multi-agent orchestration  STORM  DeerFlow  VLMs  YOLO  gemini  tensorflow  tf lite  scikit-learn  embeddings  edge inference
+backend       fastapi  spring boot  express  flask  prisma  celery  airflow  kafka
 frontend      next.js  react  angular  swiftui  jetpack compose
 data          postgresql  redis  qdrant  dynamodb  elasticsearch  mongodb  sqlite  postgis
-infra         aws  docker  kubernetes  mqtt  git  ci/cd
+infra         aws (lambda, ecs, s3)  docker  kubernetes  jenkins  mqtt  freertos  git  ci/cd
 ```
 
 ---
