@@ -30,14 +30,17 @@
 
 ### experience
 
-**AI Software Engineer** at a **Stealth Foundational AI Company** - Palo Alto, CA (Dec 2025 - Present)
-Building foundational AI product infrastructure end-to-end.
+**AI Software Engineer** at **Stealth Foundational AI Company** - Palo Alto, CA · Hybrid (Dec 2025 - Present)
+Building foundational AI product infrastructure end to end. Partnering closely with reputable leadership to translate product priorities into shipped systems in a fast-moving Silicon Valley startup.
+`Python` `FastAPI` `LLMs` `Infrastructure`
 
-**ML Intern** at **Haystream** (May - Sep 2023)
-Built an end-to-end credit-risk pipeline: GBDT models lifting AUC +6 pts, containerized FastAPI microservice for real-time scoring, Airflow ETL, Power BI drift monitoring.
+**Software Engineering Lead** at **UT Dallas — EPICS** - Dallas, TX (Jan 2025 - May 2025)
+Led a five-engineer team shipping a full-stack grant-matching platform, covering architecture, sprint planning, code review, and hands-on engineering. Built serverless ingestion and classification pipelines that turned fragmented source data into clean, queryable records. Tuned the data and search layer to keep the app fast under real usage, cutting database load while keeping response times tight.
+`Next.js` `Prisma` `PostgreSQL` `AWS Lambda` `Python` `Node.js` `tRPC`
 
-**Full-Stack Engineering Lead** at **UT Dallas EPICS** (Jan - May 2025)
-Led a 5-engineer team building a Next.js + Prisma grant-matching portal. 1,500+ opportunities cataloged, p95 search latency < 90ms, serverless ETL on AWS Lambda ingesting 300+ sources.
+**Software Engineering Intern** at **Haystream** - New York, NY (Remote) (May 2023 - Sep 2023)
+Shipped a production credit-risk pipeline covering feature work, model retraining, and a real-time scoring service, lifting performance and cutting latency meaningfully. Built a constraint-aware portfolio optimizer that ran large-scale simulations to surface higher-yield, still-safe allocations. Wired up orchestrated data pipelines and interactive dashboards so leadership could self-serve portfolio and model-health signals.
+`Python` `FastAPI` `GBDT` `Airflow` `Docker` `Power BI` `PostgreSQL`
 
 ---
 
