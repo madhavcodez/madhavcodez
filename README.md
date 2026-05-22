@@ -12,7 +12,7 @@
 
 ### now
 
-AI Software Engineer at a stealth company in Silicon Valley.
+Software Engineer at a stealth company in Silicon Valley, working on AI / ML.
 
 Building:
 - **[Agentary](https://github.com/madhavcodez/agentary)** &mdash; autonomous multi-agent research platform
@@ -21,7 +21,7 @@ Building:
 ### previously
 
 - **[UT Disaster](https://github.com/UTDisaster)** &mdash; professor-led disaster damage assessment platform: VLM pipeline on pre/post Hurricane Florence satellite imagery, React map UI, FastAPI + PostGIS backend with natural-language spatial Q&amp;A
-- **SentinelEdge** &mdash; edge-AI video security on Jetson Nano, funded pilot with a local gas-station owner
+- **SentinelEdge** &mdash; smart security cameras for small businesses: runs threat detection on a small on-site computer (NVIDIA Jetson Nano) and pings the owner&rsquo;s phone in under 2 seconds, with no cloud round-trip. Funded pilot with a local gas-station owner.
 - **[rajputra.org](https://rajputra.org)** &mdash; community engagement portal serving 10K+ monthly visitors
 
 ---
