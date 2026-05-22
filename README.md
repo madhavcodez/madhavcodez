@@ -12,9 +12,11 @@
 
 ### now
 
-Software Engineer at a stealth company in Silicon Valley, working on AI / ML.
+New grad software engineer. Builder.
 
-Building:
+Just wrapped a software engineering internship at a stealth company in Silicon Valley, where I worked on AI / ML.
+
+Recent work:
 - **[Agentary](https://github.com/madhavcodez/agentary)** &mdash; autonomous multi-agent research platform
 - **[cortex-score](https://github.com/madhavcodez/cortex-score)** &mdash; score any video for predicted cortical engagement across 5 brain networks (built on Meta FAIR&rsquo;s TRIBE v2)
 
@@ -28,7 +30,7 @@ Building:
 
 ### open source
 
-Curious developer interested in quantum computing, robotics, and autonomous driving. Looking to break into embedded software. AI / ML is what I&rsquo;ve spent the most time on so far.
+Curious builder interested in quantum computing, robotics, embedded systems, computer vision, and edge ML. AI / ML is where I&rsquo;ve spent the most time so far.
 
 Looking for meaningful open-source projects to contribute to in any of those areas. If you maintain something and want a hand, point me at an issue: [madhavcbusiness@gmail.com](mailto:madhavcbusiness@gmail.com).
 
