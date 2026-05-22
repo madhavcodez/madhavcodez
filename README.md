@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Madhav Chauhan" width="100%"/>
+  <img src="https://raw.githubusercontent.com/madhavcodez/madhavcodez/main/assets/hero.svg" alt="Madhav Chauhan" width="100%"/>
 </p>
 
 <p align="center">
@@ -20,19 +20,17 @@ Building:
 
 ### previously
 
-- **[Basketball Intelligence](https://github.com/madhavcodez/basketballintelligence)** &mdash; NBA analytics &plus; film breakdown
-- **UT Disaster** &mdash; professor-led geospatial research on Hurricane Florence imagery
-- **SentinelEdge** &mdash; edge-AI video security on Jetson Nano
-- **[rajputra.org](https://rajputra.org)** &mdash; community engagement portal
+- **[UT Disaster](https://github.com/UTDisaster)** &mdash; professor-led disaster damage assessment platform: VLM pipeline on pre/post Hurricane Florence satellite imagery, React map UI, FastAPI + PostGIS backend with natural-language spatial Q&amp;A
+- **SentinelEdge** &mdash; edge-AI video security on Jetson Nano, funded pilot with a local gas-station owner
+- **[rajputra.org](https://rajputra.org)** &mdash; community engagement portal serving 10K+ monthly visitors
 
 ---
 
-```mermaid
-flowchart LR
-    raw["raw inputs"] --> pipe["pipelines"] --> model["models"]
-    model --> store["stores"] --> surface["surfaces"]
-    pipe --> surface
-```
+### open source
+
+Curious developer interested in agent infrastructure, on-device ML, brain-encoding research, and developer tooling.
+
+Looking for meaningful open-source projects to contribute to. If you maintain something in those areas and want a hand, point me at an issue: [madhavcbusiness@gmail.com](mailto:madhavcbusiness@gmail.com).
 
 ---
 
