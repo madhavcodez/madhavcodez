@@ -16,7 +16,7 @@ AI Software Engineer at a stealth company in Silicon Valley.
 
 Building:
 - **[Agentary](https://github.com/madhavcodez/agentary)** &mdash; autonomous multi-agent research platform
-- **[Cortexia](https://github.com/madhavcodez/cortexia)** &mdash; fMRI-validated brain-encoding for video
+- **[cortex-score](https://github.com/madhavcodez/cortex-score)** &mdash; score any video for predicted cortical engagement across 5 brain networks (built on Meta FAIR&rsquo;s TRIBE v2)
 
 ### previously
 
@@ -31,6 +31,8 @@ Building:
 Curious developer interested in agent infrastructure, on-device ML, brain-encoding research, and developer tooling.
 
 Looking for meaningful open-source projects to contribute to. If you maintain something in those areas and want a hand, point me at an issue: [madhavcbusiness@gmail.com](mailto:madhavcbusiness@gmail.com).
+
+Also happy to take issues / PRs on [cortex-score](https://github.com/madhavcodez/cortex-score) &mdash; the only public surface of my brain-encoding work.
 
 ---
 
