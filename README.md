@@ -28,9 +28,9 @@ Building:
 
 ### open source
 
-Curious developer interested in agent infrastructure, on-device ML, brain-encoding research, and developer tooling.
+Curious developer interested in quantum computing, robotics, and autonomous driving. Looking to break into embedded software. AI / ML is what I&rsquo;ve spent the most time on so far.
 
-Looking for meaningful open-source projects to contribute to. If you maintain something in those areas and want a hand, point me at an issue: [madhavcbusiness@gmail.com](mailto:madhavcbusiness@gmail.com).
+Looking for meaningful open-source projects to contribute to in any of those areas. If you maintain something and want a hand, point me at an issue: [madhavcbusiness@gmail.com](mailto:madhavcbusiness@gmail.com).
 
 Also happy to take issues / PRs on [cortex-score](https://github.com/madhavcodez/cortex-score) &mdash; the only public surface of my brain-encoding work.
 
