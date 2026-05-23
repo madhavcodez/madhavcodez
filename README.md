@@ -34,18 +34,13 @@ Recent work:
 
 Curious builder interested in quantum computing, robotics, embedded systems, computer vision, and edge ML. AI / ML is where I&rsquo;ve spent the most time so far.
 
-Looking for meaningful open-source projects to contribute to. If you maintain something in any of those areas and want a hand, point me at an issue: [madhavcbusiness@gmail.com](mailto:madhavcbusiness@gmail.com).
+Currently contributing to:
+- **[roboflow/supervision](https://github.com/roboflow/supervision)** &mdash; Open-source computer vision toolkit (39k+ stars). [PRs](https://github.com/roboflow/supervision/pulls?q=is%3Apr+author%3Amadhavcodez): docs fix for the heatmap CLI flag, and a fix for a COCO ID collision bug.
+- **[swar/nba_api](https://github.com/swar/nba_api)** &mdash; Python client for NBA.com (3.6k+ stars). [PRs](https://github.com/swar/nba_api/pulls?q=is%3Apr+author%3Amadhavcodez): WNBA expansion teams (Toronto Tempo, Portland Fire) and team conference / division static data.
+
+Looking for more meaningful projects to contribute to. If you maintain something in any of those areas and want a hand, point me at an issue: [madhavcbusiness@gmail.com](mailto:madhavcbusiness@gmail.com).
 
 Also happy to take issues / PRs on [cortex-score](https://github.com/madhavcodez/cortex-score) &mdash; the only public surface of my brain-encoding work.
-
----
-
-| | |
-|---|---|
-| **languages** | python &middot; typescript &middot; c / c++ &middot; java &middot; kotlin &middot; swift &middot; go &middot; sql |
-| **ml / edge** | pytorch &middot; tensorflow &middot; tf lite &middot; yolo &middot; vlm &middot; jetson &middot; mqtt &middot; freertos |
-| **infra** | postgres &middot; redis &middot; qdrant &middot; postgis &middot; aws &middot; docker &middot; k8s &middot; airflow |
-| **frameworks** | fastapi &middot; spring boot &middot; next.js &middot; react &middot; angular &middot; swiftui &middot; jetpack compose &middot; nuxt &middot; vue |
 
 ---
 
