@@ -35,8 +35,9 @@ Recent work:
 Curious builder interested in quantum computing, robotics, embedded systems, computer vision, and edge ML. AI / ML is where I&rsquo;ve spent the most time so far.
 
 Currently contributing to:
-- **[roboflow/supervision](https://github.com/roboflow/supervision)** &mdash; Open-source computer vision toolkit (39k+ stars). [PRs](https://github.com/roboflow/supervision/pulls?q=is%3Apr+author%3Amadhavcodez): docs fix for the heatmap CLI flag, and a fix for a COCO ID collision bug.
-- **[swar/nba_api](https://github.com/swar/nba_api)** &mdash; Python client for NBA.com (3.6k+ stars). [PRs](https://github.com/swar/nba_api/pulls?q=is%3Apr+author%3Amadhavcodez): WNBA expansion teams (Toronto Tempo, Portland Fire) and team conference / division static data.
+- **[roboflow/supervision](https://github.com/roboflow/supervision)** &mdash; Open-source computer vision toolkit (39k+ stars). [PRs](https://github.com/roboflow/supervision/pulls?q=is%3Apr+author%3Amadhavcodez)
+- **[swar/nba_api](https://github.com/swar/nba_api)** &mdash; Python client for NBA.com (3.6k+ stars). [PRs](https://github.com/swar/nba_api/pulls?q=is%3Apr+author%3Amadhavcodez)
+- **[stanford/nlp/dspy](https://github.com/stanfordnlp/dspy/)**; Stanford University's DSPy framework for programming with Foundational Model. 
 
 Looking for more meaningful projects to contribute to. If you maintain something in any of those areas and want a hand, point me at an issue: [madhavcbusiness@gmail.com](mailto:madhavcbusiness@gmail.com).
 
