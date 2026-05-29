@@ -36,6 +36,7 @@ Curious builder interested in quantum computing, robotics, embedded systems, com
 
 Currently contributing to:
 - **[roboflow/supervision](https://github.com/roboflow/supervision)** &mdash; Open-source computer vision toolkit (39k+ stars). [PRs](https://github.com/roboflow/supervision/pulls?q=is%3Apr+author%3Amadhavcodez)
+  - merged: [#2276](https://github.com/roboflow/supervision/pull/2276) 1-indexed COCO `category_id` export &middot; [#2267](https://github.com/roboflow/supervision/pull/2267) chainable COCO ids across splits &middot; [#2266](https://github.com/roboflow/supervision/pull/2266) docs CLI-flag fix
 - **[swar/nba_api](https://github.com/swar/nba_api)** &mdash; Python client for NBA.com (3.6k+ stars). [PRs](https://github.com/swar/nba_api/pulls?q=is%3Apr+author%3Amadhavcodez)
 - **[stanford/nlp/dspy](https://github.com/stanfordnlp/dspy/)**; Stanford University's DSPy framework for programming with Foundational Model. 
 
