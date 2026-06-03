@@ -34,11 +34,15 @@ Recent work:
 
 Curious builder interested in quantum computing, robotics, embedded systems, computer vision, and edge ML. AI / ML is where I&rsquo;ve spent the most time so far.
 
-Currently contributing to:
+**Merged contributions:**
 - **[roboflow/supervision](https://github.com/roboflow/supervision)** &mdash; Open-source computer vision toolkit (39k+ stars). [PRs](https://github.com/roboflow/supervision/pulls?q=is%3Apr+author%3Amadhavcodez)
-  - merged: [#2276](https://github.com/roboflow/supervision/pull/2276) 1-indexed COCO `category_id` export &middot; [#2267](https://github.com/roboflow/supervision/pull/2267) chainable COCO ids across splits &middot; [#2266](https://github.com/roboflow/supervision/pull/2266) docs CLI-flag fix
-- **[swar/nba_api](https://github.com/swar/nba_api)** &mdash; Python client for NBA.com (3.6k+ stars). [PRs](https://github.com/swar/nba_api/pulls?q=is%3Apr+author%3Amadhavcodez)
-- **[stanford/nlp/dspy](https://github.com/stanfordnlp/dspy/)**; Stanford University's DSPy framework for programming with Foundational Model. 
+  - [#2276](https://github.com/roboflow/supervision/pull/2276) 1-indexed COCO `category_id` export &middot; [#2267](https://github.com/roboflow/supervision/pull/2267) chainable COCO ids across splits &middot; [#2266](https://github.com/roboflow/supervision/pull/2266) docs CLI-flag fix
+- **[geopandas/geopandas](https://github.com/geopandas/geopandas)** &mdash; Geospatial data in Python (4.7k+ stars). [#3784](https://github.com/geopandas/geopandas/pull/3784) honor `legend_kwds["labels"]` for categorical and boolean columns in `explore()`
+
+**Approved &amp; merging:**
+- **[redis/redis-py](https://github.com/redis/redis-py)** &mdash; Python client for Redis (13k+ stars). [#4088](https://github.com/redis/redis-py/pull/4088) PyPI Trusted Publishing (OIDC) for releases &mdash; reviewed and approved, in the merge queue.
+
+Also currently contributing to **[stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)** (Stanford&rsquo;s framework for programming language models) and **[swar/nba_api](https://github.com/swar/nba_api)** (Python client for NBA.com).
 
 Looking for more meaningful projects to contribute to. If you maintain something in any of those areas and want a hand, point me at an issue: [madhavcbusiness@gmail.com](mailto:madhavcbusiness@gmail.com).
 
