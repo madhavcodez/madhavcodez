@@ -1,82 +1,162 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 280" width="1280" height="280" role="img" aria-label="Madhav Chauhan">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" width="1280" height="300" role="img" aria-label="Madhav Chauhan — new grad software engineer, Silicon Valley experience">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#08080c"/>
-      <stop offset="100%" stop-color="#16162a"/>
+      <stop offset="0%" stop-color="#0b0e14"/>
+      <stop offset="100%" stop-color="#121826"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#7c3aed" stop-opacity="1"/>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.22"/>
       <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="morph" x1="870" y1="0" x2="1005" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
     </linearGradient>
-    <pattern id="dots" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1" fill="#fafafa" fill-opacity="0.06"/>
+    <linearGradient id="baseline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#22d3ee" stop-opacity="0.55"/>
+      <stop offset="65%" stop-color="#a78bfa" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" x="0" y="0" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1" fill="#f5f7fa" fill-opacity="0.045"/>
     </pattern>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
   </defs>
 
-  <rect width="1280" height="280" fill="url(#bg)"/>
-  <rect width="1280" height="280" fill="url(#dots)"/>
+  <!-- canvas -->
+  <rect width="1280" height="300" rx="16" fill="url(#bg)"/>
+  <rect width="1280" height="300" rx="16" fill="url(#grid)"/>
+  <ellipse cx="1090" cy="140" rx="240" ry="150" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="1279" height="299" rx="15.5" fill="none" stroke="#1f2633"/>
 
-  <text x="80" y="120" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="56" font-weight="700" fill="#fafafa" letter-spacing="-1">madhav chauhan</text>
-  <text x="80" y="158" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="18" fill="#d1d5db">software engineer  ·  builder  ·  new grad</text>
-  <text x="80" y="184" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#9ca3af">university of texas (dallas)  ·  class of ’26 alum</text>
-
-  <circle cx="86" cy="220" r="4" fill="#22c55e"/>
-  <text x="100" y="225" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#22c55e">open to swe / ml new-grad roles  ·  looking to contribute to open source</text>
-
-  <g transform="translate(820, 50)" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11">
-    <g>
-      <rect x="0" y="0" width="380" height="32" fill="#1a1a2e" stroke="#2a2a44" stroke-width="0.5" rx="4"/>
-      <text x="14" y="20" fill="#9ca3af">data</text>
-      <rect x="60" y="6" width="62" height="20" fill="#7c3aed" fill-opacity="0.18" rx="3"/>
-      <text x="68" y="20" fill="#a78bfa">postgres</text>
-      <rect x="130" y="6" width="52" height="20" fill="#7c3aed" fill-opacity="0.18" rx="3"/>
-      <text x="138" y="20" fill="#a78bfa">qdrant</text>
-      <rect x="190" y="6" width="56" height="20" fill="#7c3aed" fill-opacity="0.18" rx="3"/>
-      <text x="198" y="20" fill="#a78bfa">postgis</text>
-      <rect x="254" y="6" width="52" height="20" fill="#7c3aed" fill-opacity="0.18" rx="3"/>
-      <text x="262" y="20" fill="#a78bfa">sqlite</text>
-    </g>
-
-    <g transform="translate(0, 42)">
-      <rect x="0" y="0" width="380" height="32" fill="#1a1a2e" stroke="#2a2a44" stroke-width="0.5" rx="4"/>
-      <text x="14" y="20" fill="#9ca3af">infra</text>
-      <rect x="60" y="6" width="62" height="20" fill="#7c3aed" fill-opacity="0.18" rx="3"/>
-      <text x="68" y="20" fill="#a78bfa">fastapi</text>
-      <rect x="130" y="6" width="52" height="20" fill="#7c3aed" fill-opacity="0.18" rx="3"/>
-      <text x="138" y="20" fill="#a78bfa">celery</text>
-      <rect x="190" y="6" width="56" height="20" fill="#7c3aed" fill-opacity="0.18" rx="3"/>
-      <text x="198" y="20" fill="#a78bfa">docker</text>
-      <rect x="254" y="6" width="52" height="20" fill="#7c3aed" fill-opacity="0.18" rx="3"/>
-      <text x="262" y="20" fill="#a78bfa">aws</text>
-    </g>
-
-    <g transform="translate(0, 84)">
-      <rect x="0" y="0" width="380" height="32" fill="#1a1a2e" stroke="#2a2a44" stroke-width="0.5" rx="4"/>
-      <text x="14" y="20" fill="#9ca3af">ml</text>
-      <rect x="60" y="6" width="62" height="20" fill="#7c3aed" fill-opacity="0.18" rx="3"/>
-      <text x="68" y="20" fill="#a78bfa">tribe v2</text>
-      <rect x="130" y="6" width="52" height="20" fill="#7c3aed" fill-opacity="0.18" rx="3"/>
-      <text x="138" y="20" fill="#a78bfa">storm</text>
-      <rect x="190" y="6" width="56" height="20" fill="#7c3aed" fill-opacity="0.18" rx="3"/>
-      <text x="198" y="20" fill="#a78bfa">yolo</text>
-      <rect x="254" y="6" width="52" height="20" fill="#7c3aed" fill-opacity="0.18" rx="3"/>
-      <text x="262" y="20" fill="#a78bfa">vlm</text>
-    </g>
-
-    <g transform="translate(0, 126)">
-      <rect x="0" y="0" width="380" height="32" fill="#1a1a2e" stroke="#2a2a44" stroke-width="0.5" rx="4"/>
-      <text x="14" y="20" fill="#9ca3af">ui</text>
-      <rect x="60" y="6" width="62" height="20" fill="#7c3aed" fill-opacity="0.18" rx="3"/>
-      <text x="68" y="20" fill="#a78bfa">next.js</text>
-      <rect x="130" y="6" width="52" height="20" fill="#7c3aed" fill-opacity="0.18" rx="3"/>
-      <text x="138" y="20" fill="#a78bfa">swiftui</text>
-      <rect x="190" y="6" width="56" height="20" fill="#7c3aed" fill-opacity="0.18" rx="3"/>
-      <text x="198" y="20" fill="#a78bfa">compose</text>
-      <rect x="254" y="6" width="52" height="20" fill="#7c3aed" fill-opacity="0.18" rx="3"/>
-      <text x="262" y="20" fill="#a78bfa">niivue</text>
-    </g>
+  <!-- ====================== identity (left) ====================== -->
+  <g font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace">
+    <text x="72" y="84" font-size="12" letter-spacing="3.5" fill="#8b93a7">NEW GRAD SOFTWARE ENGINEER &#183; SILICON VALLEY EXPERIENCE</text>
+    <text x="72" y="146" font-size="58" font-weight="700" letter-spacing="-1.5" fill="#f5f7fa">madhav chauhan</text>
+    <text x="72" y="182" font-size="21" font-style="italic" fill="#a78bfa">builder.</text>
+    <text x="72" y="216" font-size="14" fill="#9ca3af">quantum &#183; robotics &#183; embedded systems &#183; computer vision &#183; edge ml</text>
+    <circle cx="78" cy="246" r="4" fill="#34d399">
+      <animate attributeName="fill-opacity" values="1;0.45;1" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="92" y="251" font-size="13" fill="#34d399">open to swe / ml new-grad roles &#183; point me at an issue</text>
   </g>
 
-  <rect x="0" y="277" width="1280" height="3" fill="url(#accent)"/>
+  <!-- ====================== circuit -> cortex (right) ====================== -->
+
+  <!-- pcb entry traces -->
+  <g stroke="#22d3ee" stroke-width="1.6" stroke-opacity="0.55" fill="none" stroke-linejoin="round">
+    <path d="M652 96 H678 L692 110 H706"/>
+    <path d="M644 134 H706"/>
+    <path d="M652 186 H678 L692 172 H706"/>
+    <path d="M644 210 H684 L698 196 H706"/>
+  </g>
+  <!-- entry vias -->
+  <g fill="#22d3ee" fill-opacity="0.9">
+    <circle cx="652" cy="96" r="2.6"/>
+    <circle cx="644" cy="134" r="2.6"/>
+    <circle cx="652" cy="186" r="2.6"/>
+    <circle cx="644" cy="210" r="2.6"/>
+  </g>
+
+  <!-- mcu chip -->
+  <g>
+    <rect x="706" y="98" width="80" height="112" rx="7" fill="#161b26" stroke="#2a3142" stroke-width="1.2"/>
+    <rect x="718" y="110" width="56" height="88" rx="4" fill="none" stroke="#2a3142" stroke-width="0.8" stroke-dasharray="3 4"/>
+    <circle cx="726" cy="118" r="2.4" fill="none" stroke="#3d4658" stroke-width="1"/>
+    <!-- pins left -->
+    <g fill="#3d4658">
+      <rect x="700" y="106" width="6" height="4" rx="1"/>
+      <rect x="700" y="130" width="6" height="4" rx="1"/>
+      <rect x="700" y="168" width="6" height="4" rx="1"/>
+      <rect x="700" y="192" width="6" height="4" rx="1"/>
+    </g>
+    <!-- pins right -->
+    <g fill="#3d4658">
+      <rect x="786" y="106" width="6" height="4" rx="1"/>
+      <rect x="786" y="130" width="6" height="4" rx="1"/>
+      <rect x="786" y="154" width="6" height="4" rx="1"/>
+      <rect x="786" y="178" width="6" height="4" rx="1"/>
+      <rect x="786" y="192" width="6" height="4" rx="1"/>
+    </g>
+    <text x="746" y="158" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" letter-spacing="2" fill="#5c677d">MCU</text>
+  </g>
+
+  <!-- pcb exit traces with vias -->
+  <g stroke="#22d3ee" stroke-width="1.6" stroke-opacity="0.55" fill="none" stroke-linejoin="round">
+    <path d="M792 108 H818 L834 92 H870"/>
+    <path d="M792 132 H826 L838 122 H870"/>
+    <path d="M792 156 H870"/>
+    <path d="M792 180 H826 L838 190 H870"/>
+    <path d="M792 194 H814 L830 212 H870"/>
+  </g>
+  <g fill="#22d3ee" fill-opacity="0.9">
+    <circle cx="870" cy="92" r="2.6"/>
+    <circle cx="870" cy="122" r="2.6"/>
+    <circle cx="870" cy="156" r="2.6"/>
+    <circle cx="870" cy="190" r="2.6"/>
+    <circle cx="870" cy="212" r="2.6"/>
+  </g>
+
+  <!-- morph: rigid copper becomes organic dendrites -->
+  <g stroke="url(#morph)" stroke-width="1.4" fill="none" stroke-opacity="0.8">
+    <path d="M870 92 C 920 88, 950 92, 1002 97"/>
+    <path d="M870 122 C 916 124, 952 138, 996 148"/>
+    <path d="M870 156 C 912 158, 948 152, 996 150"/>
+    <path d="M870 190 C 918 192, 952 198, 1004 203"/>
+    <path d="M870 212 C 914 218, 956 226, 1008 230"/>
+  </g>
+
+  <!-- neural edges -->
+  <g stroke="#a78bfa" stroke-width="1.1" stroke-opacity="0.38" fill="none">
+    <path d="M1002 97 Q 1032 78 1062 72"/>
+    <path d="M1002 97 Q 1038 110 1072 124"/>
+    <path d="M996 149 Q 1034 136 1072 124"/>
+    <path d="M996 149 Q 1032 166 1066 184"/>
+    <path d="M1004 203 Q 1034 194 1066 184"/>
+    <path d="M1004 203 Q 1042 216 1082 232"/>
+    <path d="M1008 230 Q 1044 232 1082 232"/>
+    <path d="M1062 72 Q 1102 78 1140 92"/>
+    <path d="M1072 124 Q 1106 108 1140 92"/>
+    <path d="M1072 124 Q 1110 140 1146 158"/>
+    <path d="M1066 184 Q 1106 172 1146 158"/>
+    <path d="M1066 184 Q 1112 198 1156 212"/>
+    <path d="M1082 232 Q 1120 224 1156 212"/>
+    <path d="M1140 92 Q 1178 102 1212 118"/>
+    <path d="M1146 158 Q 1180 138 1212 118"/>
+    <path d="M1146 158 Q 1182 168 1216 178"/>
+    <path d="M1156 212 Q 1188 196 1216 178"/>
+  </g>
+
+  <!-- neural node glows -->
+  <g fill="#a78bfa" fill-opacity="0.5" filter="url(#soft)">
+    <circle cx="1146" cy="158" r="9"/>
+    <circle cx="1072" cy="124" r="7"/>
+    <circle cx="1212" cy="118" r="6"/>
+  </g>
+
+  <!-- neural nodes -->
+  <g fill="#a78bfa">
+    <circle cx="1002" cy="97" r="4"/>
+    <circle cx="996" cy="149" r="5"/>
+    <circle cx="1004" cy="203" r="4"/>
+    <circle cx="1008" cy="230" r="3"/>
+    <circle cx="1062" cy="72" r="4"/>
+    <circle cx="1072" cy="124" r="5.5"/>
+    <circle cx="1066" cy="184" r="5"/>
+    <circle cx="1082" cy="232" r="3.5"/>
+    <circle cx="1140" cy="92" r="4.5"/>
+    <circle cx="1156" cy="212" r="4"/>
+    <circle cx="1216" cy="178" r="4.5"/>
+  </g>
+  <circle cx="1146" cy="158" r="6.5" fill="#22d3ee">
+    <animate attributeName="fill-opacity" values="1;0.55;1" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1212" cy="118" r="4.5" fill="#c4b5fd"/>
+
+  <!-- caption -->
+  <line x1="640" y1="266" x2="1232" y2="266" stroke="url(#baseline)" stroke-width="1.4"/>
+  <text x="936" y="288" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" letter-spacing="3" fill="#6b7280">CIRCUIT &#8594; CORTEX</text>
 </svg>

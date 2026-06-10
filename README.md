@@ -12,9 +12,7 @@
 
 ### now
 
-New grad software engineer. Builder.
-
-Just wrapped a software engineering internship at a stealth company in Silicon Valley, where I worked on AI / ML.
+New grad software engineer with Silicon Valley experience. Builder.
 
 Recent work:
 - **[Agentary](https://github.com/madhavcodez/agentary)** &mdash; Autonomous multi-agent research platform.
@@ -43,7 +41,13 @@ Curious builder interested in quantum computing, robotics, embedded systems, com
 **Approved &amp; merging:**
 - **[redis/redis-py](https://github.com/redis/redis-py)** &mdash; Python client for Redis (13k+ stars). [#4088](https://github.com/redis/redis-py/pull/4088) PyPI Trusted Publishing (OIDC) for releases &mdash; reviewed and approved, in the merge queue.
 
-Also currently contributing to **[torchgeo/torchgeo](https://github.com/torchgeo/torchgeo)** (geospatial deep learning for PyTorch), **[stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)** (Stanford&rsquo;s framework for programming language models), **[niivue/niivue](https://github.com/niivue/niivue)** (web-based neuroimaging visualization), and **[swar/nba_api](https://github.com/swar/nba_api)** (Python client for NBA.com).
+**In review:**
+- **[roboflow/supervision](https://github.com/roboflow/supervision)** &mdash; [#2281](https://github.com/roboflow/supervision/pull/2281) windowed GeoTIFF reads in `InferenceSlicer` &middot; [#2284](https://github.com/roboflow/supervision/pull/2284) CreateML dataset format &middot; [#2299](https://github.com/roboflow/supervision/pull/2299) LabelMe dataset format
+- **[geopandas/geopandas](https://github.com/geopandas/geopandas)** &mdash; [#3789](https://github.com/geopandas/geopandas/pull/3789) keep `crs` when `from_features` gets an empty feature list
+- **[torchgeo/torchgeo](https://github.com/torchgeo/torchgeo)** &mdash; Geospatial deep learning for PyTorch. [#3770](https://github.com/torchgeo/torchgeo/pull/3770) convert `WesternUSALiveFuelMoisture` to the time-series sample format
+- **[stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)** &mdash; Stanford&rsquo;s framework for programming language models (34k+ stars). [#9832](https://github.com/stanfordnlp/dspy/pull/9832) preserve Python literals in `ChatAdapter` dict parsing
+- **[niivue/niivue](https://github.com/niivue/niivue)** &mdash; Web-based neuroimaging visualization. [#1612](https://github.com/niivue/niivue/pull/1612) fix reversed translucent / transparent volume rendering
+- **[swar/nba_api](https://github.com/swar/nba_api)** &mdash; Python client for NBA.com. [#676](https://github.com/swar/nba_api/pull/676) 2026 WNBA expansion teams &middot; [#677](https://github.com/swar/nba_api/pull/677) team conference / division static data
 
 Looking for more meaningful projects to contribute to. If you maintain something in any of those areas and want a hand, point me at an issue: [madhavcbusiness@gmail.com](mailto:madhavcbusiness@gmail.com).
 
