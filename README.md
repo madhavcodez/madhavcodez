@@ -12,7 +12,7 @@
 
 ### now
 
-i be building
+i like building
 
 Recent work:
 - **[Agentary](https://github.com/madhavcodez/agentary)** &mdash; Autonomous multi-agent research platform.
