@@ -12,7 +12,7 @@
 
 ### now
 
-New grad software engineer with Silicon Valley experience. Builder.
+i be building
 
 Recent work:
 - **[Agentary](https://github.com/madhavcodez/agentary)** &mdash; Autonomous multi-agent research platform.
