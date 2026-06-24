@@ -15,6 +15,7 @@
 i like building
 
 Recent work:
+- **[microscope](https://github.com/madhavcodez/microscope)** &mdash; Reproducible mechanistic-interpretability toolkit: sparse autoencoders, transcoders, auto-interp, and feature circuits on Gemma-2-2B, with adversarial controls and honest-evaluation-first scoring.
 - **[Agentary](https://github.com/madhavcodez/agentary)** &mdash; Autonomous multi-agent research platform.
 - **[cortex-score](https://github.com/madhavcodez/cortex-score)** &mdash; Score any video for predicted cortical engagement across 5 brain networks (built on Meta FAIR&rsquo;s TRIBE v2).
 
@@ -39,11 +40,13 @@ Curious builder interested in quantum computing, robotics, embedded systems, com
 - **[roboflow/inference](https://github.com/roboflow/inference)** &mdash; Computer-vision inference server &amp; Workflows engine (2.3k+ stars). [#2388](https://github.com/roboflow/inference/pull/2388) correct `values_difference` aggregation in the Data Aggregator block
 
 **Approved &amp; merging:**
-- **[redis/redis-py](https://github.com/redis/redis-py)** &mdash; Python client for Redis (13k+ stars). [#4088](https://github.com/redis/redis-py/pull/4088) PyPI Trusted Publishing (OIDC) for releases &mdash; reviewed and approved, in the merge queue.
+- **[redis/redis-py](https://github.com/redis/redis-py)** &mdash; Python client for Redis (13k+ stars). [#4088](https://github.com/redis/redis-py/pull/4088) PyPI Trusted Publishing (OIDC) for releases &mdash; maintainer confirmed it will be merged once their release steps land.
 
 **In review:**
 - **[roboflow/supervision](https://github.com/roboflow/supervision)** &mdash; [#2281](https://github.com/roboflow/supervision/pull/2281) windowed GeoTIFF reads in `InferenceSlicer` &middot; [#2284](https://github.com/roboflow/supervision/pull/2284) CreateML dataset format &middot; [#2299](https://github.com/roboflow/supervision/pull/2299) LabelMe dataset format
+- **[voxel51/fiftyone](https://github.com/voxel51/fiftyone)** &mdash; Dataset and visual-AI toolkit for computer vision (10k+ stars). [#7830](https://github.com/voxel51/fiftyone/pull/7830) validate longitude / latitude ranges on geo fields &middot; [#7831](https://github.com/voxel51/fiftyone/pull/7831) load extra CityPersons attributes on Cityscapes person detections
 - **[geopandas/geopandas](https://github.com/geopandas/geopandas)** &mdash; [#3789](https://github.com/geopandas/geopandas/pull/3789) keep `crs` when `from_features` gets an empty feature list
+- **[rasterio/rasterio](https://github.com/rasterio/rasterio)** &mdash; Geospatial raster I/O for Python (2.5k+ stars). [#3578](https://github.com/rasterio/rasterio/pull/3578) accept 3-vertex polygons (triangles) in `is_valid_geom` and `rasterize`
 - **[torchgeo/torchgeo](https://github.com/torchgeo/torchgeo)** &mdash; Geospatial deep learning for PyTorch. [#3770](https://github.com/torchgeo/torchgeo/pull/3770) convert `WesternUSALiveFuelMoisture` to the time-series sample format
 - **[stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)** &mdash; Stanford&rsquo;s framework for programming language models (34k+ stars). [#9832](https://github.com/stanfordnlp/dspy/pull/9832) preserve Python literals in `ChatAdapter` dict parsing
 - **[niivue/niivue](https://github.com/niivue/niivue)** &mdash; Web-based neuroimaging visualization. [#1612](https://github.com/niivue/niivue/pull/1612) fix reversed translucent / transparent volume rendering
