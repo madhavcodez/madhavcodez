@@ -35,7 +35,7 @@ Curious builder interested in quantum computing, robotics, embedded systems, com
 
 **Merged contributions:**
 - **[roboflow/supervision](https://github.com/roboflow/supervision)** &mdash; Open-source computer vision toolkit (39k+ stars). [PRs](https://github.com/roboflow/supervision/pulls?q=is%3Apr+author%3Amadhavcodez)
-  - [#2281](https://github.com/roboflow/supervision/pull/2281) windowed GeoTIFF reads in `InferenceSlicer` &middot; [#2284](https://github.com/roboflow/supervision/pull/2284) CreateML dataset format
+  - [#2281](https://github.com/roboflow/supervision/pull/2281) windowed GeoTIFF reads in `InferenceSlicer` &middot; [#2284](https://github.com/roboflow/supervision/pull/2284) CreateML dataset format &middot; [#2299](https://github.com/roboflow/supervision/pull/2299) LabelMe dataset format
   - [#2276](https://github.com/roboflow/supervision/pull/2276) 1-indexed COCO `category_id` export &middot; [#2267](https://github.com/roboflow/supervision/pull/2267) chainable COCO ids across splits &middot; [#2266](https://github.com/roboflow/supervision/pull/2266) docs CLI-flag fix
 - **[geopandas/geopandas](https://github.com/geopandas/geopandas)** &mdash; Geospatial data in Python (4.7k+ stars). [#3784](https://github.com/geopandas/geopandas/pull/3784) honor `legend_kwds["labels"]` for categorical and boolean columns in `explore()`
 - **[roboflow/inference](https://github.com/roboflow/inference)** &mdash; Computer-vision inference server &amp; Workflows engine (2.3k+ stars). [#2388](https://github.com/roboflow/inference/pull/2388) correct `values_difference` aggregation in the Data Aggregator block
@@ -44,7 +44,6 @@ Curious builder interested in quantum computing, robotics, embedded systems, com
 - **[redis/redis-py](https://github.com/redis/redis-py)** &mdash; Python client for Redis (13k+ stars). [#4088](https://github.com/redis/redis-py/pull/4088) PyPI Trusted Publishing (OIDC) for releases &mdash; maintainer confirmed it will be merged once their release steps land.
 
 **In review:**
-- **[roboflow/supervision](https://github.com/roboflow/supervision)** &mdash; [#2299](https://github.com/roboflow/supervision/pull/2299) LabelMe dataset format
 - **[voxel51/fiftyone](https://github.com/voxel51/fiftyone)** &mdash; Dataset and visual-AI toolkit for computer vision (10k+ stars). [#7830](https://github.com/voxel51/fiftyone/pull/7830) validate longitude / latitude ranges on geo fields &middot; [#7831](https://github.com/voxel51/fiftyone/pull/7831) load extra CityPersons attributes on Cityscapes person detections
 - **[geopandas/geopandas](https://github.com/geopandas/geopandas)** &mdash; [#3789](https://github.com/geopandas/geopandas/pull/3789) keep `crs` when `from_features` gets an empty feature list
 - **[rasterio/rasterio](https://github.com/rasterio/rasterio)** &mdash; Geospatial raster I/O for Python (2.5k+ stars). [#3578](https://github.com/rasterio/rasterio/pull/3578) accept 3-vertex polygons (triangles) in `is_valid_geom` and `rasterize`
